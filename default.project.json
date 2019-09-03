@@ -24,11 +24,25 @@
       },
 
       "ImportPaths": {
-        "$path": "ImportPaths.lua"
+        "$path": "src/ImportPaths.lua"
       },
       "ReloadDirectories": {
         "$path": "src/ReloadDirectories.lua"
       }
-  	}
+		},
+
+		"StarterPlayer":{
+			"$className": "StarterPlayer",
+
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+				"$path": "src/Client"
+			}
+		},
+
+		"ServerScriptService":{
+			"$className": "ServerScriptService",
+			"$path": "src/Server"
+		}
   }
 }
