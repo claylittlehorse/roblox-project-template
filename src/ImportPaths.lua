@@ -22,13 +22,13 @@ return {
 
 	-- Important libraries
 	Cmdr = "ReplicatedStorage/Lib/Cmdr",
+	Cryo = "ReplicatedStorage/Lib/Cryo",
 	DataStore2 = "ReplicatedStorage/Lib/DataStore2",
 	Immutable = "ReplicatedStorage/Lib/Immutable",
 	Inspect = "ReplicatedStorage/Lib/Inspect",
-	Otter = "ReplicatedStorage/Lib/Otter",
+	Network = "ReplicatedStorage/Lib/Network",
 	Promise = "ReplicatedStorage/Lib/Promise",
 	Roact = "ReplicatedStorage/Lib/Roact",
-	RoactMotion = "ReplicatedStorage/Lib/RoactMotion",
 	RoactRodux = "ReplicatedStorage/Lib/RoactRodux",
 	Rodux = "ReplicatedStorage/Lib/Rodux",
 	t = "ReplicatedStorage/Lib/t",
