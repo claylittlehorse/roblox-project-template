@@ -1,6 +1,6 @@
 # roblox project template
 
-this is the template that i use for roblox projects! sets up roact, rodux, some other things, as well as a 'system' loading thing we like to use on our projects
+this is the template that i use for roblox projects! sets up roact w/ hot reloading, rodux, some other things, as well as a 'system' loading thing we like to use on our projects
 
 ## style guide
 
