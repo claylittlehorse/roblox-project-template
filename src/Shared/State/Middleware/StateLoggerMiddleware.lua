@@ -2,7 +2,7 @@
 	Pretty prints the state to the output every time something changes.
 ]]
 
-local import = require(game.ReplicatedStorage.Shared.Import)
+local import = require(game.ReplicatedStorage.Lib.Import)
 
 local Pretty = import "Utils/Pretty"
 
